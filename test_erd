@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T22:04:05.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="mWlTzYwhSNjGVzZAB51A" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T18:39:40.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="wj4hTQk9hZPBYP1UMotE" version="21.0.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1007" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1387" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -916,7 +916,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4pG03LcXW59_hpmpV1iI-89" value="Actividad char" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="4pG03LcXW59_hpmpV1iI-87" vertex="1">
+        <mxCell id="4pG03LcXW59_hpmpV1iI-89" value="DescActividad char" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="4pG03LcXW59_hpmpV1iI-87" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -946,7 +946,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QYV1-lywFQ5hyG5FV2UZ-1" value="&lt;h1&gt;BITACORA&lt;/h1&gt;&lt;p&gt;Aquí presentamos el Diagrama Entidad-Relación propuesto&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="QYV1-lywFQ5hyG5FV2UZ-1" value="&lt;h1&gt;BITACORA&lt;/h1&gt;&lt;p&gt;Aquí presentamos el Diagrama Entidad-Relación propuesto&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="330" y="10" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
